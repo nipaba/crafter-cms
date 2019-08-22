@@ -17,7 +17,10 @@
 	<hero_text>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text>
 	<hero_title>&lt;h1&gt;&lt;span&gt;Hi, I&amp;rsquo;m Editorial&lt;/span&gt;&lt;/h1&gt;
 &lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title>
-	<features item-list="true"/>
+	<features item-list="true">	<item>	<value>Three</value>
+	<key>/site/components/features/sapien-veroeros.xml</key>
+	<include>/site/components/features/sapien-veroeros.xml</include>
+	</item></features>
 	<header item-list="true"/>
 	<hero_image>/static-assets/images/strawberries.jpg</hero_image>
 	<left-rail item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
