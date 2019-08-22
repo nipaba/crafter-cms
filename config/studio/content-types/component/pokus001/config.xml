@@ -1,11 +1,11 @@
 <content-type name="/component/pokus001" is-wcm-type="true">
-<label>pokus001</label>
-<form>/component/pokus001</form>
-<form-path>simple</form-path>
-<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
-<file-extension>xml</file-extension>
-<content-as-folder>false</content-as-folder>
-<previewable>false</previewable>
-<noThumbnail>true</noThumbnail>
-<image-thumbnail></image-thumbnail>
+	<label>pokus001</label>
+	<form>/component/pokus001</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
 </content-type>
